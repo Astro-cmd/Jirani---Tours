@@ -1,6 +1,40 @@
 # Tourism Management System
 
 This is a comprehensive **Tourism Management System** designed to manage users, destinations, packages, bookings, payments, and reviews, along with engaging content such as blogs and FAQs.
+# Jirani-Tours
+
+Jirani-Tours is a comprehensive tourism management system designed to streamline the process of booking tours, managing destinations, and handling payments.
+
+## Technologies Used
+- Django
+- Python
+- PostgreSQL
+- JavaScript (for front-end integration)
+- Bootstrap
+
+## Installation Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Astro-cmd/Jirani---Tours.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Jirani---Tours
+   ```
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Set up your database and environment variables.
+
+## Usage Instructions
+- Run the development server:
+  ```bash
+  python manage.py runserver
+  ```
+
+## Contributing
+If you'd like to contribute, feel free to open an issue or submit a pull request.
 
 ## Features
 
